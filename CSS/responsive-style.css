@@ -50,15 +50,7 @@
 
     /* portfolio */
 
-    .portfolio_wrapper .card{
-        
-        min-height: 325px;
-    }
-    .portfolio_wrapper .card span{
-        background-position: relative;
-        background-size:cover;
-        
-    }
+    
 
 
 }
@@ -104,15 +96,8 @@
 
     /* portfolio */
 
-    .portfolio_wrapper .card{
-        
-        min-height: 250px;
-    }
-    .portfolio_wrapper .card span{
-        /* background-position: top left; */
-        background-size:cover;
-        /* background-repeat: no-repeat;  */
-    }  
+   
+    
 
 
 }
